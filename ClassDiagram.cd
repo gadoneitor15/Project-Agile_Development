@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GetInput">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\GetInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PopUp">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\PopUp.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="resetScript" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="awardStuff" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts C#\awardStuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallScript">
+    <Position X="21" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAiAAAAAgAAIEAAAAAAAAAAAIAAIAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\BallScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrickScript">
+    <Position X="19.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QTQQIAABACAAAAAAAgAIAAAAAAAAAABAAAAAADAQAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\BrickScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeatbarScript">
+    <Position X="17.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\DeatbarScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelControllerScript">
+    <Position X="19.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAAEAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\LevelControllerScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaddleScript">
+    <Position X="17.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACIAAAAAAAAIAAAACAAAAQAIAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\PaddleScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeedScript">
+    <Position X="15.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAIAAAQIAAAAAAAAAQAQABAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Bricks(Jesper)\SpeedScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Achievement">
+    <Position X="3.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAgAAAAAEAAAABAAAQAAAEEIAAAAAAAIAAAASA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\Achievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AchievementController">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" FixedToPoint="true">
+      <Path>
+        <Point X="16.5" Y="4.191" />
+        <Point X="16.5" Y="4.566" />
+        <Point X="2.062" Y="4.566" />
+        <Point X="2.062" Y="6.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\AchievementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BootScript">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\BootScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="11.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAABBAAAAABAAAAAAAABAAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\GameController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="playerData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="serializablePlayerData">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAABAAAAAAAAAAAJAAAAAAAAAABEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatisticsController">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQBgAAgACAAAAAAAAAIAAAACAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\StatisticsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetInputandNext">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\GetInputandNext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadNewSceneAfterSeconds">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\LoadNewSceneAfterSeconds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="nextScene">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQIgAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\nextScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveInputAndNext" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\SaveInputAndNext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reset">
+    <Position X="20" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Settings\Reset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VeranderVolume">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Settings\VeranderVolume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake">
+    <Position X="7.25" Y="5" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="Snake.SwipeDirection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts C#\Snake Scripts\Snake.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAkAAEAKCAAQAAAAAKAAEAAEAAAAAAgAAAAQBAAgA=</HashCode>
+      <FileName>Assets\Scripts C#\Snake Scripts\Snake.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="GameOver" />
+      <Field Name="foodSpawner" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SnakeGameOver">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwAAAAAAAAAAgAAAIAAAAAEAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Snake Scripts\SnakeGameOver.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="award" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpawnFood">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEACAAAEAAAAABAAAAAAIAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts C#\Snake Scripts\SpawnFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.PlayerData">
+    <Position X="7.75" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABABEAAQABAAAAABkAAAAJAAAAAAQAAABEAAAAQQA=</HashCode>
+      <FileName>Assets\Scripts C#\GameController\PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

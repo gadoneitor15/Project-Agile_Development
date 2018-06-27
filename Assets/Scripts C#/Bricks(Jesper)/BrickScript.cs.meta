@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9255c0151d743b4e885211d67a5fb4e
+timeCreated: 1494512142
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BrickPreFab: {fileID: 1000010367017704, guid: 962dcfdb420f64f42aaa9c6283ad7412,
+      type: 2}
+  - Brick2PreFab: {fileID: 1000010367017704, guid: 01d57d0134c93f64f8010af51f672809,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
